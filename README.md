@@ -23,9 +23,9 @@ Venice in Italy is my Favourite location in the world because it is a city thats
 *****
 # Itens for Entertainment
 * Food
- * Chips
- * Cookies
- * Sandwiches
+    * Chips
+    * Cookies
+    * Sandwiches
 * Drinks
 * Speakers
 * Movies
