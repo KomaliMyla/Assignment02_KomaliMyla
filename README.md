@@ -20,4 +20,16 @@ Venice in Italy is my Favourite location in the world because it is a city thats
 3.Continue on CA-1 N. Drive to Chestnut St <br>
 3a.5 min (1.6 mi)
 
+*****
+# Itens for Entertainment
+* Food
+ * Chips
+ * Cookies
+ * Sandwiches
+* Drinks
+* Speakers
+* Movies
+
+
+
 
