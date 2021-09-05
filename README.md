@@ -21,7 +21,7 @@ Venice in Italy is my Favourite location in the world because it is a city thats
 3a.5 min (1.6 mi)
 
 *****
-# Itens for Entertainment
+# Items for Entertainment
 * Food
     * Chips
     * Cookies
