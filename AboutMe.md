@@ -14,7 +14,6 @@ Below are the list of alocholic and non-alcoholic drinks that I would like to re
 | Drink Name |        Where              |     Price    |
 | ---------- | --------------------------| -------------|
 | Margarita  | At any Bar                |  3 $         |
-| Mojito     | At any Bar                | 6-14 $       |
-| Wine       | At any Bar and Stores     | 15 - 34 $    |
-| Coffee     | At any Cafe               | 2 - 5 $      |
-       
+| Mojito     | At any Bar                |  6-14 $      |
+| Wine       | At any Bar and Stores     |  15 - 34 $   |
+| Coffee     | At any Cafe               |  2 - 5 $     |
