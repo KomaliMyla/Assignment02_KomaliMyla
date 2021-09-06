@@ -22,7 +22,7 @@ Below are the list of alocholic and non-alcoholic drinks that I would like to re
 ******
 # Quotes that I Like
  > Broken hearts and tears build you into a stronger person - *Bridgett Devoue*<br>
- > She remembered who she was and the game changed  - *Lalah Deliah*<br>
- > Never regret anything that made you smile        - *Mark Twain*<br>
+   She remembered who she was and the game changed  - *Lalah Deliah*<br>
+   Never regret anything that made you smile        - *Mark Twain*<br>
 
 
