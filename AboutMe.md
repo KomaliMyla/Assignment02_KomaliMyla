@@ -17,3 +17,12 @@ Below are the list of alocholic and non-alcoholic drinks that I would like to re
 | Mojito     | At any Bar                |  6-14 $      |
 | Wine       | At any Bar and Stores     |  15 - 34 $   |
 | Coffee     | At any Cafe               |  2 - 5 $     |
+
+
+******
+# Quotes that I Like
+ > Broken hearts and tears build you into a stronger person - *Bridgett Devoue*
+ > She remembered who she was and the game changed  - *Lalah Deliah*
+ > Never regret anything that made you smile        - *Mark Twain*
+
+
